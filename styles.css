@@ -2,21 +2,21 @@
     text-align: center;
     background-color: #5ad1f6;
     font-family:'Pacifico', cursive;
-    font-size: 600%;
+    font-size: 30%;
     margin-top: 0%;
     margin-bottom: 0%;
     padding: 3%;
     border: 1px solid black;
-   
+    ;
 
 }
-.pf{width: 9%;
-    height:9%;
+.pf{width: 6%;
+    height:6%;
     display:block;
     margin-left: auto;
     margin-right: auto;
-    border: 20px solid black;
-    border-radius: 200%;
+    border: 1px solid black;
+    border-radius: 100%;
 }
 body{
     margin:0;
@@ -26,20 +26,18 @@ body{
     text-align: center;
     background-color: #1f7cc1;
     font-family:'Pacifico', cursive;
-    font-size: 600%;
+    font-size: 30%;
     margin-top: 0%;
     margin-bottom: 0%;
-    padding: 3%;
-    }
+    padding: 3%;}
 
 .bottom-container{
     text-align: center;
     background-color: #6d68c7;
     font-family: 'Pacifico', cursive;
-    font-size: 600%;
+    font-size: 30%;
     padding: 3%;
     margin-bottom: 0%;
-   
 
 }
 
@@ -60,29 +58,28 @@ th{ color: yellow;
 .contact{ text-align: center;
     background-color: #b991ff;
     font-family:'Pacifico', cursive;
-    font-size: 600%;
+    font-size: 30%;
     margin-top: 0%;
     margin-bottom: 0%;
     color: rgb(0, 0, 0);
     padding: 3%;
     text-decoration: underline;
-   
 
 }
 .form1{
-    font-size: 60%;
+    font-size: 30%;
     padding: 1.5%;
     border: 2px solid black;
     margin: 1.5%;
  }
  .form2{
-    font-size: 60%;
+    font-size: 30%;
     padding: 1.5%;
     border: 2px solid black;
     margin: 1.5%;
  }
  .form3{
-    font-size: 60%;
+    font-size: 30%;
     padding: 1.5%;
     border: 2px solid black;
 
